@@ -1,16 +1,60 @@
-# React + Vite
+CyberGuard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly cybersecurity toolkit and learning dashboard built while exploring React, frontend development, and practical cybersecurity concepts.
 
-Currently, two official plugins are available:
+ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[Try CyberGuard](https://cyber-guard-one-pearl.vercel.app/)**
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Dashboard**  
+  Security score, security overview, recent activity, recommendations, and quick-access tools.
 
-## Expanding the ESLint configuration
+- **Password Lab**  
+  Check basic password characteristics and learn about stronger password practices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Threat Scanner**  
+  Analyze suspicious URLs and messages for common warning indicators.
+
+- **Phishing Analyzer**  
+  Evaluate messages for phishing-related signs and suspicious patterns.
+
+- **File Hash**  
+  Generate SHA-256 hashes and understand why file hashes are useful.
+
+- **Cyber Academy**  
+  Learn cybersecurity concepts through structured lessons and interactive learning content.
+
+- **Security Checkup**  
+  Review basic security practices and identify areas that may need attention.
+
+- **Cyber Glossary**  
+  Learn common cybersecurity terminology.
+
+- **Incident Simulator**  
+  Explore security scenarios and practice thinking through security incidents.
+
+ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Lucide React
+- Git & GitHub
+- Vercel
+
+Project Goal
+
+CyberGuard is a learning-oriented project that combines small practical security tools with educational content in one interactive dashboard.
+
+The goal is to make cybersecurity concepts easier to explore through simple, understandable tools and lessons.
+
+ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rodrigues08-bit/CyberGuard.git
+cd CyberGuard
